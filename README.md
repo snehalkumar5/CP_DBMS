@@ -1,9 +1,9 @@
 ## DATA AND APPLICATIONS
-Database for CP tournaments
+Database for CP tournaments as part of DNA Course
 
 ### Instructions:
 1. Create user with full access granted
-2. 'mysql -h 127.0.0.1 -u root --port=5005 -p' to start mysql server at port=5005
+2. 'mysql -h 127.0.0.1 -u root -p' to start mysql server
 3. 'source ./cpdb.sql' within mysql environment to use the database
 4. pip install -r requirements.txt
 5. Run the program: python3 Cache22.py
